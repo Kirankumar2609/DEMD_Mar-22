@@ -1,3 +1,5 @@
 This is my second test line
 
 Hey there this is a new line in feature1 branch
+
+Some more line was added when it was in stash
